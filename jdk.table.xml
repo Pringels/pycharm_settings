@@ -1,0 +1,250 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.6.9 (/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6)" />
+      <type value="Python SDK" />
+      <version value="Python 2.6.9" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.6/site-packages/pip-1.5.6-py2.6.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Python/2.6/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/661428859" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-2125986627" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/praekelt/project-serengheti/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/praekelt/project-serengheti/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/praekelt/project-serengheti/ve/src/jmbo-competition" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/project-serengheti/ve/src/jmbo-show" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/project-serengheti/ve/src/jmbo-twitter" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/project-serengheti/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/project-serengheti/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/project-serengheti/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1158208590" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/praekelt/project-serengheti" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/praekelt/telkom/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/praekelt/telkom/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/praekelt/telkom/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/telkom/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/telkom/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1475255388" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/praekelt/telkom" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/personal/quizzical/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/personal/quizzical/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/personal/quizzical/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/personal/quizzical/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/personal/quizzical/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1915205054" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/personal/quizzical" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/praekelt/past/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/praekelt/past/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/praekelt/past/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/past/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/past/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1530231264" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/praekelt/past" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/praekelt/praekelt-mote/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/praekelt/praekelt-mote/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/praekelt/praekelt-mote/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/praekelt-mote/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/praekelt-mote/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-516735820" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/praekelt/praekelt-mote" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/praekelt/jmbo3-reference-site/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/praekelt/jmbo3-reference-site/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/src/django-secretballot" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/src/django-likes" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/src/django-ultracache" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/src/jmbo" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/src/djangorestframework-extras" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/src/jmbo-post" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/praekelt/jmbo3-reference-site/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/900509825" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/praekelt/jmbo3-reference-site" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/personal/hours/ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/personal/hours/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/personal/hours/ve/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/personal/hours/ve/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/personal/hours/ve/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/2071940739" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/personal/hours" />
+    </jdk>
+  </component>
+</application>
