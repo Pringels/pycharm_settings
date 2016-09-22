@@ -4,4 +4,19 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="$post" value="$.ajax({&#10;    method: &quot;POST&quot;,&#10;    url: &quot;/url/&quot;,&#10;    data: { key: &quot;val&quot; }&#10;})&#10;.done(function(msg) {&#10;    $END$&#10;});" description="Generic Jquery ajax post" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="$get" value="$.ajax({&#10;    method: &quot;GET&quot;,&#10;    url: &quot;/url/&quot;&#10;})&#10;.done(function(msg) {&#10;    $END$&#10;});" description="Generic Jquery ajax get" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="proto" value="prototype.funcName = function () {&#10;    $END$&#10;};" description="Javascript prototype expander" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
