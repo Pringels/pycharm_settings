@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="boiler" value="&lt;!doctype html&gt;&#10;&lt;html class=&quot;no-js&quot; lang=&quot;&quot;&gt;&#10;    &lt;head&gt;&#10;        &lt;meta charset=&quot;utf-8&quot;&gt;&#10;        &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot;&gt;&#10;        &lt;title&gt;&lt;/title&gt;&#10;        &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;&#10;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#10;    &lt;/head&gt;&#10;    &lt;body&gt;&#10;        $END$&#10;    &lt;/body&gt;&#10;&lt;/html&gt;&#10;" description="HTML boilerplate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
